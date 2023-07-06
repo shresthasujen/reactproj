@@ -1,3 +1,11 @@
+FIRST YOU HAVE TO OPEN TERMINAL AND EXECUTE THIS COMMAND:
+
+             npm install
+
+THEN FOR THE LIVE DEPLOYMENT SERVER YOU HAVE TO EXECUTE COMMAND:
+
+             npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
